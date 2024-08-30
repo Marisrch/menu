@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mNews"
+        android:icon="@drawable/baseline_newspaper"
+        android:title="News"
+        />
+    <item
+        android:id="@+id/mGlobal"
+        android:icon="@drawable/baseline_global"
+        android:title="Global"
+     />
+    <item
+        android:id="@+id/mStar"
+        android:icon="@drawable/baseline_star"
+        android:title="Star"
+        />
+    <item
+        android:id="@+id/mLibrary"
+        android:icon="@drawable/baseline_library"
+        android:title="Trending"
+         />
+</menu>
